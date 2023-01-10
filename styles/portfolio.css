@@ -15,12 +15,22 @@
     font-weight: 600;
     font-size: 20px;
 }
+.btn-primary2{
+    color: #FD6E0A;
+    background: transparent;
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+    padding: 18px 36px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+}
 
 /* nav styles */
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title{
     
